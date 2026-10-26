@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  display: block !important;
+  width: 100%;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
